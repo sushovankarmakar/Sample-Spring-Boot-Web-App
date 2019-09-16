@@ -4,6 +4,6 @@
         <title>Insert title here</title>
     </head>
     <body>
-        I love myself, I am ${name}
+        Welcome ${obj.aid}, ${obj.aname}, ${obj.lang}
     </body>
 </html>
